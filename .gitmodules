@@ -4,3 +4,6 @@
 [submodule "CA4"]
 	path = CA4
 	url = https://github.com/SM2A/GoodReads
+[submodule "CA5"]
+	path = CA5
+	url = https://github.com/SM2A/FieldRunners
