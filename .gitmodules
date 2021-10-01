@@ -16,3 +16,6 @@
 [submodule "CA7-2"]
 	path = CA7-2
 	url = https://github.com/SM2A/UTRIP_Smart
+[submodule "CA7-3"]
+	path = CA7-3
+	url = https://github.com/SM2A/UTRIP_Web
