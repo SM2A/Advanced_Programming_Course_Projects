@@ -7,3 +7,6 @@
 [submodule "CA5"]
 	path = CA5
 	url = https://github.com/SM2A/FieldRunners
+[submodule "CA6"]
+	path = CA6
+	url = https://github.com/SM2A/JsonBuilder
