@@ -11,5 +11,5 @@ This repository contains my Advanced Programming Course Projects (Spring 2020) a
 7. CA7 (Pahse 1) : Final Project - Simple hotel reservation system
 8. CA7 (Pahse 2) : Final Project - Now the system can recommend hotels base on your previous activities
 9. CA7 (Pahse 3) : Final Project - Hotel manegment website
-10. Bonus Project : clean code version of CA1
+10. Bonus Project : Clean code version of CA1
 11. Final Exam Assignment : Interpreter
