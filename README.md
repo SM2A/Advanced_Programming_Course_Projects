@@ -1,5 +1,5 @@
 # Advanced Programming Course Projects
-This repository contains my Advanced Programming Course Projects (Spring 2020) at University of Tehran.
+This repository contains my Advanced Programming course projects (Spring 2020) at University of Tehran.
 
 0. CA0 : Warm Up
 1. CA1 : I/O & Vector
